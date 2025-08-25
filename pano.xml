@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.4" start="node1" apprev="15996">
+  <panorama id="node1">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="16.49" fov="92.4" projection="4" tilt="-23.63"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="" copyright="" comment="" source="" title="Обзорная УМО" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="20.08.2025 9:36" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="52.23" title="" id="Point01" url="{node6}" target="" tilt="-16.13" skinid="ht_node"/>
+      <hotspot description="" pan="-32.2" title="" id="Point02" url="{node10}" target="" tilt="-14.7" skinid="ht_node"/>
+      <hotspot description="" pan="61.45" title="" id="Point03" url="{node3}" target="" tilt="-6.77" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-166.46" fov="92.4" projection="4" tilt="-5.04"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Третий проход (точка №1)" copyright="" comment="" source="" title="УМО (№8)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="21.08.2025 11:29" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-45.85" title="" id="Point01" url="{node10}" target="" tilt="-3.27" skinid="ht_node"/>
+      <hotspot description="" pan="168.92" title="" id="Point02" url="{node4}" target="" tilt="-4.49" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="95.05" fov="92.4" projection="4" tilt="-1.04"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Первый проход (точка №2)" copyright="" comment="" source="" title="УМО (№2)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="20.08.2025 9:48" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-62.94" title="" id="Point01" url="{node6}" target="" tilt="-5.54" skinid="ht_node"/>
+      <hotspot description="" pan="115.76" title="" id="Point02" url="{node9}" target="" tilt="-3.68" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="36.73" fov="92.4" projection="4" tilt="-1.66"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Третий проезд (точка №2)" copyright="" comment="" source="" title="УМО (№9)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="21.08.2025 11:31" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-168.44" title="" id="Point01" url="{node2}" target="" tilt="-3.52" skinid="ht_node"/>
+      <hotspot description="" pan="11.32" title="" id="Point02" url="{node5}" target="" tilt="-3.87" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-38.7" fov="92.4" projection="4" tilt="2.72"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Третий проезд (точка №3)" copyright="" comment="" source="" title="УМО (№10)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="21.08.2025 11:34" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="99.27" title="" id="Point01" url="{node4}" target="" tilt="-7.8" skinid="ht_node"/>
+      <hotspot description="" pan="-35.79" title="" id="Point02" url="{node7}" target="" tilt="-4.5" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-85.24" fov="92.4" projection="4" tilt="4.97"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Первый проход (точка №1)" copyright="" comment="" source="" title="УМО (№1)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="20.08.2025 9:42" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="106.99" title="" id="Point01" url="{node1}" target="" tilt="9" skinid="ht_node"/>
+      <hotspot description="" pan="-59.91" title="" id="Point02" url="{node3}" target="" tilt="-3.36" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-1.08" fov="68.8" projection="4" tilt="-1.57"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Проезд (начало цеха)" copyright="" comment="" source="" title="УМО (№5)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="21.08.2025 11:22" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-82.73" title="" id="Point01" url="{node9}" target="" tilt="-4.82" skinid="ht_node"/>
+      <hotspot description="" pan="1.93" title="" id="Point02" url="{node11}" target="" tilt="-4.71" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-113.04" fov="92.4" projection="4" tilt="-4.02"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Второй проход (точка №1)" copyright="" comment="" source="" title="УМО (№7)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="21.08.2025 11:26" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-107.28" title="" id="Point01" url="{node10}" target="" tilt="-1.95" skinid="ht_node"/>
+      <hotspot description="" pan="72.76" title="" id="Point02" url="{node11}" target="" tilt="-5.71" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="57.71" fov="92.4" projection="4" tilt="-6.2"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Проезд (начало цеха)" copyright="" comment="" source="" title="УМО (№3)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="20.08.2025 9:50" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-12.63" title="" id="Point01" url="{node3}" target="" tilt="-5.99" skinid="ht_node"/>
+      <hotspot description="" pan="76.94" title="" id="Point02" url="{node7}" target="" tilt="-7.63" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="3.02" fov="92.4" projection="4" tilt="-2.59"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Проезд (конец цеха)" copyright="" comment="" source="" title="УМО (№4)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="20.08.2025 9:59" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="-45.73" title="" id="Point01" url="{node2}" target="" tilt="-2.06" skinid="ht_node"/>
+      <hotspot description="" pan="-3.56" title="" id="Point02" url="{node8}" target="" tilt="-4.23" skinid="ht_node"/>
+      <hotspot description="" pan="90.52" title="" id="Point03" url="{node1}" target="" tilt="10.4" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="2976" levelbiashidpi="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2976" levelingroll="0" levelingpitch="0" overlap="1">
+      <level width="2976" preload="0" height="2976" predecode="0"/>
+      <level width="1488" preload="0" height="1488" predecode="0"/>
+      <level width="744" preload="0" height="744" predecode="0"/>
+      <level width="372" preload="1" height="372" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-105.42" fov="92.4" projection="4" tilt="3.36"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata description="Второй проход (точка №2)" copyright="" comment="" source="" title="УМО (№6)" longitude="" tags="УМО ФУЛ" info="" latitude="" datetime="21.08.2025 11:24" customnodeid="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" background="1" backgroundalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" textalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" border="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" pan="78.51" title="" id="Point01" url="{node7}" target="" tilt="-4.32" skinid="ht_node"/>
+      <hotspot description="" pan="-106.16" title="" id="Point02" url="{node8}" target="" tilt="-3.07" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve" blendtime="1.5" softedge="0" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
+    <control contextprojections="0" contextfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" hideabout="0"/>
+  </panorama>
+</tour>
